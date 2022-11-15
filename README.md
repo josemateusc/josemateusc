@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/josemateusc">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=josemateusc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemateusc&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=josemateusc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemateusc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
@@ -31,6 +31,7 @@
     <div align="center">
     <img align="center" alt="Jose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Jose-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
